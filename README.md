@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FA8072&center=true&width=435&lines=PETTYZaaZa" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
     <img src="Wallpaper.jpg" width"100%"/>
