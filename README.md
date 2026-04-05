@@ -1,2 +1,2 @@
 <div align="center">
-    <img shc="Wallapaper" width"100%"/>
+    <img shc="Wallapaper.jpg" width"100%"/>
